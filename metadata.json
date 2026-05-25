@@ -1,0 +1,6 @@
+{
+  "name": "ShareLink",
+  "description": "Wi-Fi local file transfer app between Android and PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
